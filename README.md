@@ -46,8 +46,8 @@ PHP library to generate illusion image which can only be readable with tilted sc
   
   You can force download or show image diretly to page, use these after setting ```setShowEmbed``` to ``` false ```
 ```php
-    // $PHPTextTTR->generateTTR(false); // disabled force download
-    // $PHPTextTTR->generateTTR(true); // enabled force download
+    $PHPTextTTR->generateTTR(false); // disabled force download
+    $PHPTextTTR->generateTTR(true); // enabled force download
 ```
 
 ### Happy Coding!
