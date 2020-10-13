@@ -50,4 +50,7 @@ PHP library to generate illusion image which can only be readable with tilted sc
     $PHPTextTTR->generateTTR(true); // enabled force download
 ```
 
+## Example Image
+<img src="example.png?raw=true" alt="Illusion Image" width="500">
+
 ### Happy Coding!
